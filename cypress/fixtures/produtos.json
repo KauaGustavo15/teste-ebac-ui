@@ -1,0 +1,24 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "L",
+        "cor": "Blue",
+        "quantidade": 3
+    
+    },
+    {
+        "nomeProduto": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": 5
+    
+    },
+    {
+        "nomeProduto": "Hollister Backyard Sweatshirt",
+        "tamanho": "L",
+        "cor": "Red",
+        "quantidade": 2
+    
+    }
+    
+]
