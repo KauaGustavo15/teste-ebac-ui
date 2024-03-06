@@ -4,7 +4,8 @@
   "description": "Exercicio da EBAC do Curso de Qualidade de Software",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run --browser chrome",
+    "cy:dash" : "npx cypress run --record --key 96d598d0-e117-4410-8fc3-e32d215af1f6"
   },
   "keywords": [],
   "author": "",
